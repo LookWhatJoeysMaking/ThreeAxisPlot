@@ -1,0 +1,11 @@
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\bin\Debug\ThreeAxisPlot.exe
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\bin\Debug\ThreeAxisPlot.pdb
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\bin\Debug\ThreeAxisPlot.xml
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\obj\x86\Debug\ThreeAxisPlot.ThreeAxisPlot.resources
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\obj\x86\Debug\ThreeAxisPlot.Resources.resources
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\obj\x86\Debug\ThreeAxisPlot.exe
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\obj\x86\Debug\ThreeAxisPlot.xml
+C:\Projects\ThreeAxisPlot\ThreeAxisPlot\obj\x86\Debug\ThreeAxisPlot.pdb
